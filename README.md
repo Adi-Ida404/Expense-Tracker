@@ -1,7 +1,7 @@
 # Expense-Tracker
 Track daily expenses with categories, amount, and date.
 
-React Native Projects 📱
+React Native Project
 <br>
 <b> Expense Tracker App </b>
 <br>
